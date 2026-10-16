@@ -44,3 +44,26 @@ Tested 5 API endpoints covering product set management, delivery cost calculatio
 ## Test Documentation
 
 [**Yandex Lavka — API Testing (Google Sheets)**](https://docs.google.com/spreadsheets/d/1oa8x1DwLRZjUSWJgv3w3wQlY-cFmp9BwoBjFOdD0UwA/edit?gid=2006427015#gid=2006427015)
+
+
+
+
+# Android Testing — Yandex Metro
+
+## Project Description
+
+Performed functional and regression testing of the Yandex Metro Android application after refactoring. Prepared checklists and tested a new application build using an Android Studio emulator.
+
+## Tools
+
+- Android Studio
+- Android Emulator
+- Checklists
+
+## Results
+
+Executed 74 checks and documented 19 bugs. The testing helped identify discrepancies and assess the readiness of the new application version for release.
+
+## Test Documentation
+
+[**Yandex Metro — Functional and Regression Testing (Google Sheets)**](https://docs.google.com/spreadsheets/d/1aS59-7Fp9K9vG7LLyTqOAi0qr-mQsv7wtsSJRlAV9zs/edit?gid=899462569#gid=899462569)
