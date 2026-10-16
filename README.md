@@ -20,6 +20,11 @@ Documented 72 bug reports that help reproduce defects and identify discrepancies
 [**Yandex Samokat — Manual Testing (Google Sheets)**](https://docs.google.com/spreadsheets/d/1us6u3Hr4sQhG5_rZWqZvR2qoNJircB848lDEwPoRO_4/edit?usp=sharing)
 
 
+
+
+
+
+
 # API Testing — Yandex Lavka
 
 ## Project Description
